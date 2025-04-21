@@ -1,0 +1,1 @@
+# get-timestamp-clipboard-exe
