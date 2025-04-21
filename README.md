@@ -1,4 +1,4 @@
-# get-timestamp-clipboard-exe
+# Get Timestamp Clipboard EXE
 日本時間のタイムスタンプ`2025/04/21(月) 13:00:14`をクリップボードにコピーするアプリケーション
 
 .exe（実行ファイル）をダウンロードできます  
