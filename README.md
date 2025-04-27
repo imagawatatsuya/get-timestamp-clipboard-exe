@@ -3,11 +3,11 @@
 .exeファイルをワンクリックするだけ。
 
 .exe（実行ファイル）をダウンロードできます  
-https://github.com/imagawatatsuya/get-timestamp-clipboard-exe/releases/tag/Ver.0.1
+https://github.com/imagawatatsuya/get-timestamp-clipboard-exe/releases
 
 ## 使用方法
 ### 1. ソフトウェアをダウンロードする
-[リリースページ](https://github.com/imagawatatsuya/get-timestamp-clipboard-exe/releases/tag/Ver.0.1)の **get_timestamp_clipboard.zip** をクリックして、ファイルをダウンロードする。実行ファイル（.exe）をZIP形式で圧縮したものです。サイズ：約18KB
+[リリースページ](https://github.com/imagawatatsuya/get-timestamp-clipboard-exe/releases)の **get_timestamp_clipboard.zip** をクリックして、ファイルをダウンロードする。実行ファイル（.exe）をZIP形式で圧縮したものです。サイズ：約18KB
 
 ### 2. ダウンロードしたZIP形式ファイル（**get_timestamp_clipboard.zip**）を解凍する
 
